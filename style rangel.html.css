@@ -1,0 +1,191 @@
+*{
+    font-family: Arial;
+}
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+header section.Centro1{
+    width: 1216px;
+    display: flex;
+    margin: 0px auto;
+    justify-content: space-between;
+}
+
+header{
+    margin: 30px 0px 0px 0px;
+}
+
+section.Lista_01{
+    display: flex;
+    gap: 48px;
+    align-items: center;
+}
+
+section.Lista_01 nav.a_01{
+    display: flex;
+    gap: 48px;
+}
+
+nav.a_01 a{
+    text-decoration: none;
+    color: black;
+}
+
+header section.Centro2{
+    width: 1216px;
+    display: flex;
+    margin: 0px auto;
+}
+
+section.Centro_02{
+    padding: 50px 0px 0px 0px;
+}
+
+section.Fone-01 img{
+    width: 600px;
+    margin: 60px 100px 0px 0px;
+}
+
+section.Texto1{
+    width: 490px;
+    margin: 0px 0px 0px 0px;
+}
+
+section h3{
+    font-size: 50px;
+    margin: 50px 0px 40px 0px;
+}
+
+section p{
+    font-size: 20px;
+    margin: 0px 0px 40px 0px;
+}
+
+section p.Din{
+    color: #2E68FF;
+    font-size: 50px;
+    font-weight: BOLD;
+}
+
+section.Comprar section.Valores p{
+    font-size: 13px;
+    opacity: 30%;
+    margin: 20px 0px 0px 0px;
+}
+
+section.Comprar button{
+    background-color:#2E68FF ;
+    color: white;
+    text-decoration: none;
+    border: #2E68FF;
+    cursor: pointer;
+    padding: 15px 30px 15px 30px;
+    font-size: 20px;
+    border-radius: 4px;
+    margin: 0px 0px 40px 0px;
+}
+
+section.Centro_02{
+    align-items: center;
+}
+
+header section.Centro_03{
+    display: flex;
+    width: 1216px;
+    margin: 0px auto;
+    padding: 140px 0px 0px 0px;
+    text-align: center;
+}
+
+section.Texto_02{
+    align-items: center;
+    margin: 0px auto;
+}
+
+section.Texto_02 h4{
+    color: #2E68FF;
+}
+
+section.Texto_02 p{
+    font-size: 50px;
+    width: 640px;
+
+}
+
+header section.Centro_04{
+    display: flex;
+    width: 1216px;
+    margin: 0px auto;
+    justify-content: space-between;
+}
+
+section.Frase-01 p{
+    margin: 20px 0px 180px 55px;
+}
+
+section.Frase-02 p{
+    margin: 20px 0px 180px 35px;
+}
+
+section.Frase-03 p{
+    margin: 20px 0px 180px 90px;
+}
+
+section.Texto_03 img{
+    margin: 60px 0px 30px 140px;
+}
+
+section.Texto_03 h2{
+    color: white;
+    width: 550px;
+    margin: 0px 0px 30px 140px;
+}
+
+section.Texto_03 p{
+    color: white;
+    width: 350px;
+    margin: 0px 0px 0px 140px;
+}
+
+header section.Centro_05{
+    display: flex;
+    width: 1216px;
+    margin: 0px auto;
+    background-color: #2E68FF;
+    border-radius: 5px;
+    height: 500px;
+}
+
+section.imgmorena{
+    width: 350px;
+    margin: 30px 0px 0px 50px;
+}
+
+footer{
+    background-color: black;
+    padding: 0px 0px px 0px;
+    margin: 80px 0px 0px 0px;
+}
+
+header footer section.Centro_06{
+    display: flex;
+    width: 1216px;
+    margin: 0px auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 90px 0px 0px 0px;
+}
+
+nav.a_02{
+    display: flex;
+    gap: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
